@@ -1,0 +1,17 @@
+{
+  "name": "imagesearchabstraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "morgan": "^1.7.0",
+    "reload": "^1.1.1",
+    "useragent": "^2.1.11"
+  }
+}
